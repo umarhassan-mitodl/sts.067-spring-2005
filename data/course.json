@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "7bf71ca5-96d0-976d-0072-ad5873005665",
+  "instructors": {
+    "content": [
+      "e2a5c6bc-e7f2-6206-4eaa-4407549d9c95"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4df7913a-5a28-be34-eb53-8497d96a9019",
+    "website": "sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005"
+  },
+  "course_title": "Scientific Visualization across Disciplines: A Critical Introduction",
+  "hide_download": true,
+  "course_description": "This subject exposes students to a variety of visualization techniques so that they learn to understand the work involved in producing them and to critically assess the power and limits of each. Students concentrate on areas where visualizations are crucial for meaning making and data production. Drawing on scholarship in science and technology studies on visualization, critical art theory, and core discussions in science and engineering, students work through a series of case studies in order to become better readers and producers of visualizations.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.067",
+  "course_image_thumbnail": {
+    "content": "d859cf49-c63a-b584-12d6-9d25339d970e",
+    "website": "sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Projects",
+    "Problem Sets",
+    "Presentation Assignments"
+  ],
+  "site_uid": "9cb15a77-6195-4808-a4b8-5c957ee64eab",
+  "site_short_id": "sts.067-spring-2005",
+  "site_url_path": "courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005",
+  "title": "Course Metadata"
+}
